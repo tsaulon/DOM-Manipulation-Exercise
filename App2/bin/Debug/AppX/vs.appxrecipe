@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-JOA5850</Machine>
+    <WindowsUser>Tyrone Saulon</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>15b8740b-dc29-4162-a8e8-bfef22d617a5</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Tyrone Saulon</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Tyrone Saulon\source\repos\App2\App2\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Tyrone Saulon\source\repos\App2\App2\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>283192A69D548339F7C9A1C4A486D55B6657DB1C204429FB2ABAD9D37231F36A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>15b8740b-dc29-4162-a8e8-bfef22d617a5_1.0.0.0_neutral__bpdv5jrx9hf12</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>15b8740b-dc29-4162-a8e8-bfef22d617a5_bpdv5jrx9hf12!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>15b8740b-dc29-4162-a8e8-bfef22d617a5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Tyrone Saulon</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-03-08T04:16:51.137</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-03-08T04:55:32.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-09-19T00:34:14.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-19T00:34:14.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-19T00:34:14.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-19T00:34:14.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-19T00:34:14.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-19T00:34:14.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-19T00:34:14.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-03-08T04:55:25.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-03-08T04:52:41.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tyrone Saulon\source\repos\App2\App2\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-03-08T04:16:51.002</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+﻿body {
+  /* Uncomment this to enable scrolling and zooming
+  touch-action: manipulation;
+  */
+}
+
+.some-class
+{
+    color: blue;
+    border: 10px solid red;
+    background-color: yellow;
+}
